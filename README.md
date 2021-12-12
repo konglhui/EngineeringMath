@@ -1,5 +1,7 @@
 # 数学知识学习代码
 
+**[渲染github数学公式插件](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod/related)**
+
 ## 工程数学，数值计算
 
 *学习视频见* [b站视频链接](https://www.bilibili.com/video/BV1PE411t7as?p=3&spm_id_from=pageDriver)
