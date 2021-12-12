@@ -1,4 +1,5 @@
 # 二分法代码
+
 import math
 
 

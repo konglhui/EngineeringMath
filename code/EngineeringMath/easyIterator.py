@@ -13,6 +13,7 @@ def easy_iterator(x0, epsion, g):
 def test_func(x):
     return pow(x+1, 1/3)
 
-flag,x0  = easy_iterator(1000,0.000001,test_func)
+
+flag, x0 = easy_iterator(1000, 0.000001, test_func)
 print(flag)
 print(x0)

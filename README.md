@@ -12,4 +12,4 @@
    3. $x_{k+1} = g(x_k)$
 3. [牛顿迭代法](code/EngineeringMath/newtonIterator.py)
    1. 公式:$x_{k+1} = x_k - \frac{f(x)}{f^{'}(x)} $
-4.
+4.  
