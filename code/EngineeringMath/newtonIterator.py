@@ -16,7 +16,7 @@ def newton_iterator(x0, epsion, f, df, k, maxk):
 
 
 def fx(x):
-    return x * x + 1000 * x + 10000
+    return x * x + 1000 * x - 10000
 
 
 def dfx(x):
