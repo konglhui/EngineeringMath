@@ -6,15 +6,15 @@
 
 1. [二分法求值](code/EngineeringMath/dichotomy.py)
 
-   1. 公式： $X_0 = \frac{X_A + X_B}{2}$
+   1. 公式： $ X_0 = \frac{ X_A + X_B }{ 2 }$
 2. [简单迭代法](code/EngineeringMath/easyIterator.py)
 
    1. 计算公式： 求解 $f(x) = 0$
-   2. 令 $x = g(x)$
-   3. $x_{k+1} = g(x_k)$
+   2. 令 $ x = g(x) $
+   3. $ x_{k+1} = g(x_k) $
 3. [牛顿迭代法](code/EngineeringMath/newtonIterator.py)
 
-   1. 公式:$x_{k+1} = x_k - \frac{f(x)}{f^{'}(x)} $
+   1. 公式:$ x_{k+1} = x_k - \frac{f(x)}{f^{'}(x)} $
 4. [牛顿迭代弦割法](code/EngineeringMath/newtonCutIterator.py)
 
-   1. 公式：$x_{k+1} = x_k - \frac{f(x_k)}{f(x_k) - f(x_{k-1})} * (x_{k} - x_{k-1})$
+   1. 公式：$ x_{k+1} = x_k - \frac{f(x_k)}{f(x_k) - f(x_{k-1})} * (x_{k} - x_{k-1}) $
